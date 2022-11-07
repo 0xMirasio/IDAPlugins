@@ -5,10 +5,18 @@ A non official list of IDA plugins link sorted by categories. Feel feel to creat
 ## Essentials
 
 https://github.com/REhints/HexRaysCodeXplorer For better code navigation in RE process. CodeXplorer automates code reconstruction of C++ applications.
-https://github.com/airbus-cert/ttddbg New debugger for IDA which supports loading Time Travel Debugging traces.
 https://github.com/archercreat/ida_names IDA-names automatically renames pseudocode windows with the current function name.
 https://github.com/david-lazar/IDAPatternSearch The IDA Pattern Search plugin adds a capability of finding functions according to bit-patterns into the well-known IDA Pro disassembler based on Ghidra's function patterns format.
 https://github.com/eternalklaus/RefHunter RefHunter find all references in simple and lightweighted manner. 
+
+## Decompilation Helper
+
+https://github.com/airbus-cert/Yagi Yagi is a C++ plugin that includes the Ghidra decompiler into IDA 7.5 and 7.6.
+
+## Time travel Debugging
+
+https://github.com/airbus-cert/ttddbg New debugger for IDA which supports loading Time Travel Debugging traces.
+https://github.com/gaasedelen/tenet/ Tenet is an IDA Pro plugin which enables reverse engineers to explore execution traces of native code
 
 ## DeObfuscation / Decoder
 https://gitlab.com/eshard/d810 D-810 is a plugin which aims at removing several obfuscation layer.
