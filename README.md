@@ -27,6 +27,7 @@ https://github.com/cellebrite-srl/FunctionInliner FunctionInliner is an IDA plug
 https://github.com/eset/ipyida IPyIDA is a python-only solution to add an IPython console to IDA Pro.  
 http://sandsprite.com//blogs/index.php?uid=7&pid=361 jside adds JavaScript scripting to IDA, including an IDE with syntax highlighting, auto-completion and interactive debugger.  
 https://github.com/0xeb/ida-qscripts QScripts is an alternative to IDA's plugins IDE management.  
+https://github.com/williballenthin/ida-netnode Humane API for storing and accessing persistent data in IDA Pro databases  
 
 ## Cryptography
 
@@ -54,7 +55,8 @@ https://github.com/Martyx00/CollaRE/ CollaRE enables collaboration using multipl
 
 ## IOS
 
-https://github.com/cellebrite-labs/ida_kcpp an IDAPython module for way more convienent way to Reverse Engineering iOS kernelcaches.  
+https://github.com/cellebrite-labs/ida_kcpp an IDAPython module for way more convienent way to Reverse Engineering iOS kernelcaches. (extension of ida_kernelcache)    
+https://github.com/cellebrite-labs/ida_kernelcache IDA Toolkit for analyzing iOS kernelcaches  
 
 ## Custom Architecture
 ### Nitendo Switch
