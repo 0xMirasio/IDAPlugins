@@ -2,6 +2,9 @@
 # IDAPlugins
 A non official list of IDA plugins link sorted by categories. Feel feel to create issues/pull request, I will add the plugins. 
 
+Notation : 
+As plugins can have the same goal purpose, I will put a (1)/(2)/... ranking. Personnal opinion , can modify !
+
 ## Essentials
 
 https://github.com/REhints/HexRaysCodeXplorer For better code navigation in RE process. CodeXplorer automates code reconstruction of C++ applications.  
@@ -77,7 +80,8 @@ https://github.com/nccgroup/idahunt Command-line tool to analyze with IDA all ex
 (new, check out IDA Team from hexrays website)
 
 https://github.com/Martyx00/CollaRE/ CollaRE enables collaboration using multiple reverse engineering tools for more complex projects  
-https://github.com/tkmru/idapm Manager/Auto-Installer for IDA plugins  
+https://github.com/tmr232/Sark Manager/Auto-Installer for IDA plugins (1)  
+https://github.com/tkmru/idapm Manager/Auto-Installer for IDA plugins (2)    
 
 ## IOS
 
