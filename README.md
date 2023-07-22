@@ -37,6 +37,10 @@ https://gitlab.com/eshard/d810 D-810 is a plugin which aims at removing several 
 https://github.com/cellebrite-srl/FunctionInliner FunctionInliner is an IDA plugin that can be used to ease the reversing of binaries that have been space-optimized with function outlining  
 https://hex-rays.com/contests_details/contest2020/idaDiscover/idaDiscover.7z idaDiscover is essentially a toolbox to assist malware analysis
 
+## Language Specific
+
+https://github.com/timetravelthree/IDARustDemangler auto rust demangler 
+
 ## Dev Helper
 
 https://github.com/eset/ipyida IPyIDA is a python-only solution to add an IPython console to IDA Pro.  
